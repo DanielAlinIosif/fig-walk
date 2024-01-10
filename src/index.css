@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  display: flex;
+  flex-direction: initial; /* Acesta va centra orice copil direct al elementului grid */
+  height: 60vh;/* Alte stiluri pentru content */
+}
+
